@@ -7,7 +7,6 @@ Welcome to the Airbnb Tableau Project! This repository contains a visualization 
 - [Project Description](#project-description)
 - [Data Source](#data-source)
 - [Visualizations](#visualizations)
-- [Installation](#installation)
 
 ## Project Description
 
