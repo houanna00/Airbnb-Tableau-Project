@@ -1,6 +1,6 @@
 # Airbnb Tableau Project
 
-Welcome to the Airbnb Tableau Project! This repository contains visualizations and data analysis on Airbnb listings. The primary focus is on various metrics such as the average price per bedroom, distinct count of bedrooms, average price per zipcode, price by zipcode, and revenue for the year 2016.
+Welcome to the Airbnb Tableau Project! This repository contains a visualization on Airbnb listings. The primary focus is on various metrics such as the average price per bedroom, distinct count of bedrooms, average price per zipcode, price by zipcode, and revenue for the year 2016.
 
 ## Table of Contents
 
